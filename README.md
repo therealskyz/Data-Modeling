@@ -30,6 +30,3 @@ Your job is to design their relational database systems for improved operational
 
 ## Import data into a Db2 database:
 ![task9](Task9.png)
-
-## Import data into a MySQL database:
-![task10](Task10.png)
